@@ -1,0 +1,21 @@
+{
+	"name": "Tutorial PWA",
+	"short_name": "tutorpwa",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"background_color": "skyblue",
+	"theme_color": "skyblue",
+	"orientation": "portrait-primary",
+	"icons": [
+		{
+			"src": "/img/favicon-@32x.png",
+			"type": "image/png",
+			"sizes": "32x20"
+		},
+		{
+			"src": "/img/favicon-@64x.png",
+			"type": "image/png",
+			"sizes": "64x39"
+		}
+	]
+}
